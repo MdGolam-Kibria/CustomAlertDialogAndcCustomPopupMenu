@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/kibria" android:title="kibria"/>
+<item android:id="@+id/helal" android:title="helal"/>
+<item android:id="@+id/monni" android:title="monni"/>
+<item android:id="@+id/akhi" android:title="akhi"/>
+</menu>
